@@ -9,11 +9,19 @@ To create a random UUID...
 
 **1. Install**
 
+This is a javascript module available through the npm and yarn registry.
+
 ```shell
-npm install uuid
+$ npm install uuid
 ```
 
-**2. Create a UUID** (ES6 module syntax)
+or
+
+```shell
+$ yarn add uuid
+```
+
+**2. Create a UUID (ES6 module syntax)**
 
 ```javascript
 import { uuid, NILL } from "@itxhamza/uuid";
@@ -28,7 +36,7 @@ const { uuid } = require("@itxhamza/uuid");
 uuidv4(); // ⇨ '1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed'
 ```
 
-**3. Create a UUID With Custom Mask** (ES6 module syntax)
+**3. Create a UUID With Custom Mask (ES6 module syntax)**
 
 ```javascript
 import { uuid } from "@itxhamza/uuid";
