@@ -12,13 +12,13 @@ To create a random UUID...
 This is a javascript module available through the npm and yarn registry.
 
 ```shell
-$ npm install uuid
+$ npm install @itxhamza/uuid
 ```
 
 or
 
 ```shell
-$ yarn add uuid
+$ yarn add @itxhamza/uuid
 ```
 
 **2. Create a UUID (ES6 module syntax)**
