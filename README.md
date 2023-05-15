@@ -1,6 +1,6 @@
 # @itxhamza/uuid
 
-[![NPM Version][npm-version-image]][npm-url]
+[![NPM Version](https://badgen.net/npm/v/@itxhamza/uuid)](https://npmjs.org/package/@itxhamza/uuid)
 [![install size](https://packagephobia.com/badge?p=@itxhamza/uuid)](https://packagephobia.com/result?p=@itxhamza/uuid)
 
 ## Quickstart
@@ -46,5 +46,3 @@ uuid("xx-xxxxxxxxxx"); // ⇨ '57-1801edd0ac'
 
 [npm-install-size-image]: https://badgen.net/packagephobia/install/@itxhamza/uuid
 [npm-install-size-url]: https://packagephobia.com/result?p=@itxhamza/uuid
-[npm-url]: https://npmjs.org/package/@itxhamza/uuid
-[npm-version-image]: https://badgen.net/npm/v/@itxhamza/uuid
